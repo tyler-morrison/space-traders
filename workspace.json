@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "medina": "apps/medina",
+    "medina-e2e": "apps/medina-e2e"
+  }
+}
